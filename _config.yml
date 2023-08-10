@@ -18,11 +18,11 @@ baseurl: ""
 # set site author
 author:
   name: casjaysdev
-  url: http://casjay.net
+  url: http://casjay.pro
 
 # set url for the contact form
 form:
-  submit_url: https://cgi.casjay.net/email.cgi
+  submit_url: https://cgi.casjay.pro/email.cgi
 
 # only set one of columns_ to enabled
 # set a custom theme - includes/themes
@@ -84,7 +84,7 @@ webmaster_verifications:
 # github options
 github:
   show: false
-  repo: https://github.com/casjaysdev-sites/hak.casjay.net
+  repo: https://github.com/casjaysdev-sites/hak.casjay.pro
   user:
   avatar:
   forkme: false
